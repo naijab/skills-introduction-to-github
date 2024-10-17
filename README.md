@@ -7,6 +7,29 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+# Word
+```
+//Validate the format of a spanish phone number (+34 prefix, then 9 digits, starting with 6, 7 or 9). The operation should receive a phone number as parameter and return true if the format is correct, false otherwise and press Enter. Press tab to accept the Coilot suggest code.
+
+// write unit test to Validate the format of a spanish phone number (+34 prefix, then 9 digits, starting with 6, 7 or 9). The operation should receive a phone number as parameter and return true if the format is correct, false otherwise and press Enter. Press tab to accept the unit tests suggested by copilot.
+
+// Validate the format of a spanish DNI (8 digits and 1 letter). The operation should receive a DNI as parameter and return true if the format is correct, false otherwise. and press Enter. Press tab to accept the Copilot suggest code.
+
+// Based on the existing colors.json file under resources, given the name of the color as path parameter, return the hexadecimal code. If the color is not found, return 404. and press Enter. Press tab to accept the Copilot suggest code.
+
+// Create a new operation that call theAPI https://api.chucknorris.io/jokes/random and return the joke. and press Enter. Press tab to accept the Copilot suggest code.
+
+// Given a url as query parameter, parse it and return the protocol, host, port, path and query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
+
+//Given the path of a file and count the number of occurrence of a provided word. The path and the word should be query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
+
+
+
+
+
+```
+
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
