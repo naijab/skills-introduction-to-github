@@ -17,11 +17,13 @@
 
 // Based on the existing colors.json file under resources, given the name of the color as path parameter, return the hexadecimal code. If the color is not found, return 404. and press Enter. Press tab to accept the Copilot suggest code.
 
+// Write unit test to Based on the existing colors.json file under resources, given the name of the color as path parameter, return the hexadecimal code. If the color is not found, return 404
+
 // Create a new operation that call theAPI https://api.chucknorris.io/jokes/random and return the joke. and press Enter. Press tab to accept the Copilot suggest code.
 
 // Given a url as query parameter, parse it and return the protocol, host, port, path and query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
 
-//Given the path of a file and count the number of occurrence of a provided word. The path and the word should be query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
+// Given the path of a file and count the number of occurrence of a provided word. The path and the word should be query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
 
 
 
