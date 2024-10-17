@@ -25,8 +25,11 @@
 
 // Given a url as query parameter, parse it and return the protocol, host, port, path and query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
 
+// write a unit test to test for the above function, add //Write unit test for Given a url as query parameter, parse it and return the protocol, host, port, path and query parameters. The response should be in Json format
+
 // Given the path of a file and count the number of occurrence of a provided word. The path and the word should be query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
 
+// Write unit test to Given the path of a file and count the number of occurrence of a provided word. The path and the word should be query parameters. The response should be in Json format.
 
 
 
