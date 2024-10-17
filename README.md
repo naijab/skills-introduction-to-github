@@ -21,6 +21,8 @@
 
 // Create a new operation that call theAPI https://api.chucknorris.io/jokes/random and return the joke. and press Enter. Press tab to accept the Copilot suggest code.
 
+// write a unit test to test for the above function, add //Create a new operation that call the API https://api.chucknorris.io/jokes/random and return the joke
+
 // Given a url as query parameter, parse it and return the protocol, host, port, path and query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
 
 // Given the path of a file and count the number of occurrence of a provided word. The path and the word should be query parameters. The response should be in Json format. and press Enter. Press tab to accept the Copilot suggest code.
